@@ -5,7 +5,7 @@ import { ToastContainer } from "react-toastify";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between lg:p-0 px-16 ">
+    <main className="flex min-h-screen flex-col items-center justify-between lg:p-0 px-12 ">
       <ToastContainer />
       <Head>
         <title>Aditya Roy - Carde</title>
