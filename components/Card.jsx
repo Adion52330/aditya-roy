@@ -15,7 +15,7 @@ const Card = () => {
     toast("Discord: toyroy10", { theme: "dark" });
   };
   return (
-    <div className="border-h rounded-md bg-gray-200 py-5 px-10 w-full bg-opacity-50 backdrop-blur-md drop-shadow-lg">
+    <div className="border-h rounded-md bg-gray-200 py-5 lg:px-10 px-5 w-full bg-opacity-50 backdrop-blur-md drop-shadow-lg">
       <div className="flex flex-col items-center gap-2">
         {/* image */}
         <img
